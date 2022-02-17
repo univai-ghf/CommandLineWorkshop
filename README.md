@@ -1,6 +1,6 @@
 # CommandLineWorkshop
 
-ou can do data science in jupyterlab and Visual Studio Code, and using your operating system's file manager. But this is like driving a Ferrari in the slow lane.
+You can do data science in jupyterlab and Visual Studio Code, and using your operating system's file manager. But this is like driving a Ferrari in the slow lane.
 
 Data Science is usually done on unix-like systems, and it is important to learn the skills that let your Ferrari purr. You want to be able to deal with multiple pieces of data fast, set up repeatable data science analysis pipelines, and put code into production.
 
