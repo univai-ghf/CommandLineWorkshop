@@ -26,7 +26,7 @@ To follow along (and you should follow along), you can stay on this notebook on 
 
 If you decide to stay here on Colab, run the next cell. It will set up a terminal with a `bash` shell on colab for you. Or you can get a terminal directly on Colab if you have paid for Colab Pro (check geography before you do this).
 
-[![Open Workshop In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/univai-courses-ghf/CommandLineWorkshop/blob/main/LearningTheCommandLine.ipynb)
+[![Open Workshop In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/univai-ghf/CommandLineWorkshop/blob/main/LearningTheCommandLine.ipynb)
 
 *The Colab terminal software is still buggy. Exit out of each xterm session or you will have an infinite scroll of html code in those sessions*
 
